@@ -1,0 +1,5 @@
+*.gz
+*.zip
+.ipynb_checkpoints/
+__pycache__/
+model_save/
